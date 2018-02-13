@@ -5,7 +5,7 @@ Read example: [test.js](./test.js)
 
 # Options
 
-```
+```javascript
 {
   // NOTE: Unless you are relying on asynchronously rendered content,
   // such as after an Ajax request, none of these options should be
