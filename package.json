@@ -1,6 +1,6 @@
 {
-  "name": "prerender",
-  "version": "2.0.1",
+  "name": "html-prerender",
+  "version": "0.0.1",
   "description": "Prerenders static HTML",
   "main": "index.js",
   "author": "Dat Tran",
@@ -20,5 +20,24 @@
   },
   "engines": {
     "node": ">=8.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dattran92/prerender.git"
+  },
+  "keywords": [
+    "node",
+    "prerender",
+    "phantomjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/dattran92/prerender/issues"
+  },
+  "homepage": "https://github.com/dattran92/prerender#readme"
 }
